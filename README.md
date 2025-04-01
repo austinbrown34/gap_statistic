@@ -28,7 +28,7 @@ using the gap statistic.
 #### Install:  
 Bleeding edge:
 ```commandline
-pip install git+git://github.com/milesgranger/gap_statistic.git
+pip install git+git://github.com/austinbrown34/gap_statistic.git
 ```
 
 PyPi:  
